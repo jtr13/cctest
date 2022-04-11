@@ -5,7 +5,9 @@ Version: 0.0.0.9000
 Imports:
     emo,
     forecast,
-    tidyverse
+    tidyverse,
+    forecast,
+    bayesforecast
 Suggests:
     bookdown,
     bslib,
